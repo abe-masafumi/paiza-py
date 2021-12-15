@@ -1,3 +1,5 @@
-# Summary
+# Numbers3のデータ分析で勉強してこと
 
-- [Chapter 1](./chapter_1.md)
+1. [google colaboratory](./google_colaboratory.md)
+
+1. [スクレイピング](./scraping.md)
