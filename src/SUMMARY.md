@@ -1,4 +1,4 @@
-# Numbers3のデータ分析で勉強してこと
+# python
 
 1. [google colaboratory](./google_colaboratory.md)
 
