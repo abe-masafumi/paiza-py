@@ -7,3 +7,5 @@
 1. [vscode_pyson](./vscode_pyson.md)
 
 1. [scrapy](./scrapy.md)
+
+1. [python](./python.md)
