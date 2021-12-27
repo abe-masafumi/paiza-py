@@ -1,5 +1,7 @@
 # python
 
+----
+
 1. [google colaboratory](./google_colaboratory.md)
 
 2. [スクレイピング](./scraping.md)
@@ -9,3 +11,9 @@
 1. [scrapy](./scrapy.md)
 
 1. [python](./python.md)
+
+----
+
+# product一覧
+
+1. [numbers3](./numbers3.md)
