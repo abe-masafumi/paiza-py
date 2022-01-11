@@ -7,3 +7,5 @@
 [NumPyでndarray型の配列を新規作成する方法まとめ](https://tanuhack.com/create-ndarray/)
 
 [NumPy配列ndarrayの表示形式（桁数や指数表記、0埋めなど）を指定](https://note.nkmk.me/python-numpy-set-printoptions-float-formatter/)
+
+[NumPy配列ndarrayとPython標準のリストを相互に変換](https://note.nkmk.me/python-numpy-list/)
