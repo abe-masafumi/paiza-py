@@ -9,12 +9,16 @@
 4. [scrapy](./scrapy.md)
 
 5. [python](./python.md)
+  
+6. [numpy](./numpy.md)
 
 ----
 
 # product一覧
 
 1. [numbers3](./numbers3.md)
+
+2. [numbers4](./numbers4.md)
 
 
 ----

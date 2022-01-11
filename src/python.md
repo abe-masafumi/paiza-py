@@ -1,6 +1,6 @@
 # python
 
----
+----
 
 1. for_in 文で"key"と"value"を取得
 

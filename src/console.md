@@ -1,3 +1,3 @@
-# console出力
+# Console出力
 
 ----
