@@ -12,6 +12,8 @@
   
 6. [numpy](./numpy.md)
 
+7. [Pandas](./Pandas.md)
+
 ----
 
 # product一覧
