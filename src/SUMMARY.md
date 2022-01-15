@@ -14,6 +14,8 @@
 
 7. [Pandas](./Pandas.md)
 
+8. [jupyter notebook with vs code と virtualenv](./jupyter-vscode.md)
+
 ----
 
 # product一覧
