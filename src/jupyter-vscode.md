@@ -2,6 +2,14 @@
 
 jupyter notebook を vscodeで使用する方法
 
+[document](https://virtualenv.pypa.io/en/latest/user_guide.html)
+
+[仮想環境を作ろう。virtualenvの使い方](https://www.youtube.com/watch?v=O7p4TbIF0Mg)
+
+[virtualenvをgitで管理すると便利](https://qiita.com/m-masaki72/items/7ba34e31d9f08662f1ee)
+
+[VSCodeからJupyterを実行する方法](https://genchan.net/it/programming/python/7773/#JupyterWindowsmacOSLinux)
+
 ----
 
 1. virtualenvをインストールする
