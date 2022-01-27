@@ -1,31 +1,30 @@
 # pythonで使用するコード一覧
 
+
 1. [google colaboratory](./google_colaboratory.md)
 
 2. [スクレイピング](./scraping.md)
 
-3. [vscode_pyson](./vscode_pyson.md)
-
-4. [scrapy](./scrapy.md)
-
-5. [python](./python.md)
+3. [scrapy](./scrapy.md)
   
-6. [numpy](./numpy.md)
+4. [numpy](./numpy.md)
 
-7. [Pandas](./Pandas.md)
+5. [Pandas](./Pandas.md)
 
-8. [jupyter notebook with vs code と virtualenv](./jupyter-vscode.md)
+6. [jupyter notebook with vs code と virtualenv](./jupyter-vscode.md)
 
 ----
 
 # product一覧
 
-1. [numbers3](./numbers3.md)
+* [numbers3](./numbers3.md)
 
-2. [numbers4](./numbers4.md)
+* [numbers4](./numbers4.md)
 
 
 ----
+
+- [python](./python.md)
 
 - [配列の操作](./array_01.md)
 
