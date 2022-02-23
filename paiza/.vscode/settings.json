@@ -1,0 +1,8 @@
+{
+  // PythonのPATHをワークスペースの仮想環境にする
+  "python.pythonPath" : "${workspaceFolder}/venv/bin/python",
+  // 仮想環境にインストールしたファイルは監視対象から除外する
+  "files.watcherExclude" : {
+      "**/venv/**" : true
+  }
+}

@@ -23,6 +23,7 @@
 
 
 ----
+- [pizaでよく使う](./paiza.md)
 
 - [python](./python.md)
 
