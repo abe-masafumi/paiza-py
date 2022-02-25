@@ -30,8 +30,6 @@
 
 # paizaでよく使う記述
 
-- [pizaでよく使う](./paizaでよく使う記述/paiza.md)
-
 - [python](./paizaでよく使う記述/python.md)
 
 - [配列の操作](./paizaでよく使う記述/array_01.md)

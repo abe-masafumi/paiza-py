@@ -16,3 +16,7 @@ pythonの環境構築 実行方法
     # 1 b
     # 2 c
    ```
+
+1. jsonファイルの読み込み
+
+   [jsonファイルの読み込み](https://qiita.com/kikuchiTakuya/items/53990fca06fb9ba1d8a7)
