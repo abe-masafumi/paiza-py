@@ -9,6 +9,6 @@ google colaboratoryとは
 [youtube_キノコード / プログラミング学習チャンネル](https://www.youtube.com/watch?v=wMXhZAINYhw)
 
 
-<img src="./img/google.png" alt="image">
+<img src="../img/google.png" alt="image">
 
 

@@ -92,11 +92,11 @@ jupyter notebook を vscodeで使用する方法
 
     実行時の選択肢は現在のプロジェクトを選択
 
-    <img src="img/home2.png">
+    <img src="../img/home2.png">
 
      結果
 
-    <img src="img/home.png">
+    <img src="../img/home.png">
 
 # git clone 後の処理
 
