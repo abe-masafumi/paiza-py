@@ -22,3 +22,7 @@
     for x in T_S[::-1]:
         print(*x,sep='')
     ```
+
+# listの重複を削除
+
+  [Pythonでリスト（配列）に重複した要素があるか判定](https://note.nkmk.me/python-list-duplicate-check/)
