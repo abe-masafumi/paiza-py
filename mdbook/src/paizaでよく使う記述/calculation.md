@@ -1,3 +1,0 @@
-# calculation(計算)
-
-----
