@@ -1,23 +1,19 @@
-# a = ['1', '1500', '2050']
-# a = [int(s) for s in a]
-# print(a)
-
-# L = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-# L = list(zip(*L))
-# print(L)
-
-# S = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-# T_S = list(zip(*S))
-# new_arr = []
-# for x in T_S[::-1]:
-#     u = list(x)
-#     new_arr.append(u)
-# print(new_arr)
-
+from paiza_test import*
 import pandas as pd
 import numpy as np
-coin = np.array(list(map(int, input().split())))
-# print(coin)
+
+input_text="""5
+1 4 1 20
+3
+130 1 0 0 0
+150 0 2 0 0
+100 1 0 0 0
+"""
+
+def_input(input_text)
+
+n=int(input())
+
 N = int(input())
 line = [(input()) for _ in range(N)]
 line = [list(map(int, i.rstrip().split(" "))) for i in line]
@@ -68,4 +64,3 @@ for i in range(N):
     # print(add)
     coin = coin - cost_arr + add
     print(coin)
-
