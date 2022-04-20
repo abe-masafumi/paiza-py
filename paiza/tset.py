@@ -12,25 +12,22 @@ def_input(input_text)
 n=int(input())
 
 input_list = list(map(int, input().split(" ")))
-# print(input_list)
 N = int(input())
-# print(N)
 line = [list(map(int, input().split(" "))) for _ in range(N)]
-# print(line)
 
+  
 for i in line:
   value = i[0]
   投入コイン = i[1:]
-  # print(投入コイン)
-  # print(use)
   投入金額 = 投入コイン[0] * 500 + 投入コイン[1] * 100 + 投入コイン[2] * 50 + 投入コイン[3] * 10
   お釣り = 投入金額 - value
-  if お釣り == 0:
-    break
   お釣りコイン = list(map(int,list(str(お釣り).zfill(4))))
+  print(input_list)
+  print(お釣りコイン)
 
   index_list = [0,1,2,3]
   new = []
+    
   for index, cinput , coin in zip(index_list,input_list,お釣りコイン):
     if index == 2:
       fix_index = 2
@@ -52,7 +49,6 @@ for i in line:
     elif noname3 < 0:
       new.append(0)
       return (お釣りコイン[1] - input_list[1]) * 2
-    
     
   def i50(skip = 0):
     # 例
@@ -88,9 +84,6 @@ for i in line:
     
   elif fix_index == 2:
     skip = i50()
-    a = i10(skip)
-  
-  elif fix_index == 3:
     a = i10(skip)
     
   if a:
